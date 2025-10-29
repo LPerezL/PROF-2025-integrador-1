@@ -1,4 +1,4 @@
-package es.upm.grise.prof.curso2025.integrador1;
+package com;
 
 import java.util.List;
 
@@ -7,3 +7,4 @@ public interface Cliente {
 	public List<CuentaBancaria> getCuentasDescubierto();
 	
 }
+
