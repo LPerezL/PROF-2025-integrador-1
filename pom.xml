@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com</groupId>
-  <artifactId>proyecto_maven</artifactId>
+  <groupId>es.upm.grise.prof.curso2025.integrador1</groupId>
+  <artifactId>integrador1</artifactId>
   <version>1.0</version>
 
-  <name>proyecto_maven</name>
+  <name>integrador1</name>
   <url>http://maven.apache.org</url>
 
   <properties>
